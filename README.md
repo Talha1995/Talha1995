@@ -19,7 +19,7 @@
 
 You can explore my contributions to Invenxions's projects on their GitHub profile: 
 
-[Check out my contributions at Invenxions](https://github.com/companyname)
+[Check out my contributions at Invenxions](https://github.com/talhainvenxion)
 
 Feel free to delve into the repositories I've worked on and the impact I've made. Collaboration is key, and I'm always eager to engage in meaningful projects.
 
